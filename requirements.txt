@@ -1,0 +1,9 @@
+pillow
+opencv
+tensorflow-gpu
+keras
+matplotlib
+configobj
+jupyter
+jupyterlab
+nb_conda

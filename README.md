@@ -1,3 +1,10 @@
+# My version of running this fork on HPC
+module load cudnn/9.0v7.0.5
+create conda enviroment mv2018 and install via requirements.txt
+In terminal, `sbatch run-jupyter.sbatch` to start.
+
+
+
 # Realtime Multi-Person Pose Estimation
 This is a keras version of [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) project  
 
